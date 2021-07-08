@@ -1,0 +1,30 @@
+﻿@model List<BookViewModel>
+
+<!--arama işleminin yapıldığı alan-->
+@using (Html.BeginForm()) { 
+    <label>Kitap ara:</label>
+    @Html.Editor("search")
+    <input type="submit" value="ara"/>
+}
+
+
+<!--listeleme işleminin yapıldığı alan-->
+<table class="table table-bordered">
+    <tr>
+        <th>Yazar Adı</th>
+        <th>Kitap Adı</th>
+        <th>Basım Yılı</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Author</td>
+
+            <td>@item.BookName</td>
+
+            <td>@item.PublicationYear</td>
+        </tr>
+
+    }
+</table>
+

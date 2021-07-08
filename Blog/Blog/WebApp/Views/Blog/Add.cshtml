@@ -1,0 +1,41 @@
+﻿@model Blog.Business.ViewModel.BlogViewModel
+
+@using (Html.BeginForm())
+{
+<div class="row">
+    <div class="col-4">
+        <div class="form-group">
+            <label>Başlık</label>
+            @Html.TextBoxFor(x => x.Title)
+        </div>
+    </div>
+    <div class="col-4">
+        <div class="form-group">
+            <label>Yazı</label>
+            @Html.TextBoxFor(x => x.Article)
+        </div>
+    </div>
+    <div class="col-4">
+        <div class="form-group">
+            <label>Kategoriler</label>
+            @Html.DropDownListFor(x => x.SelectedCategories, new MultiSelectList(ViewBag.Categories, "Id", "Name"), new { multiple = "multiple" })
+
+        </div>
+    </div>
+    <div class="col-4">
+        <div class="form-group">
+            <label>Taglar</label>
+            @Html.DropDownListFor(x => x.SelectedTags, new MultiSelectList(ViewBag.Tags, "Id", "Name"), new { multiple = "multiple" })
+
+        </div>
+    </div>
+</div>
+    <input type="hidden" value="1" name="UserId" />
+    <div class="row">
+        <div class="col-12">
+            <input type="submit" class="btn btn-success" value="Kaydet"/>
+        </div>
+    </div>
+    
+
+}

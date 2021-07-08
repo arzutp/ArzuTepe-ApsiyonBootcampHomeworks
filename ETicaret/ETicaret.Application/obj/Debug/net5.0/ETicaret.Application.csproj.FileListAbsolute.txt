@@ -1,0 +1,17 @@
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\bin\Debug\net5.0\ETicaret.Domain.dll
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\bin\Debug\net5.0\ETicaret.Infrastructure.dll
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\obj\Debug\net5.0\ETicaret.Application.csprojAssemblyReference.cache
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\obj\Debug\net5.0\ETicaret.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\obj\Debug\net5.0\ETicaret.Application.AssemblyInfoInputs.cache
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\obj\Debug\net5.0\ETicaret.Application.AssemblyInfo.cs
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\bin\Debug\net5.0\ETicaret.Application.deps.json
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\bin\Debug\net5.0\ETicaret.Application.dll
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\bin\Debug\net5.0\ref\ETicaret.Application.dll
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\bin\Debug\net5.0\ETicaret.Application.pdb
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\bin\Debug\net5.0\ETicaret.Infrastructure.pdb
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\bin\Debug\net5.0\ETicaret.Domain.pdb
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\obj\Debug\net5.0\ETicaret.Application.csproj.CoreCompileInputs.cache
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\obj\Debug\net5.0\ETicaret.Application.csproj.CopyComplete
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\obj\Debug\net5.0\ETicaret.Application.dll
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\obj\Debug\net5.0\ref\ETicaret.Application.dll
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Application\obj\Debug\net5.0\ETicaret.Application.pdb

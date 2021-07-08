@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Application\\ETicaret.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Application\\ETicaret.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Application\\ETicaret.Application.csproj",
+        "projectName": "ETicaret.Application",
+        "projectPath": "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Application\\ETicaret.Application.csproj",
+        "packagesPath": "C:\\Users\\arzut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arzut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Infrastructure\\ETicaret.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Infrastructure\\ETicaret.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.ExpressionMapping": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Domain\\ETicaret.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Domain\\ETicaret.Domain.csproj",
+        "projectName": "ETicaret.Domain",
+        "projectPath": "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Domain\\ETicaret.Domain.csproj",
+        "packagesPath": "C:\\Users\\arzut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arzut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Infrastructure\\ETicaret.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Infrastructure\\ETicaret.Infrastructure.csproj",
+        "projectName": "ETicaret.Infrastructure",
+        "projectPath": "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Infrastructure\\ETicaret.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\arzut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arzut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Domain\\ETicaret.Domain.csproj": {
+                "projectPath": "C:\\Users\\arzut\\OneDrive\\Masaüstü\\BootcampHomeworks-main\\ETicaret\\ETicaret.Domain\\ETicaret.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

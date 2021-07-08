@@ -1,0 +1,18 @@
+﻿@model BasketViewDto
+
+
+
+@foreach (var item in Model.Items)
+{
+<div class="row">
+    <div class="col-6">
+        Ürün @item.ProductId
+    </div>
+    <div class="col-6">
+        Adet @item.Piece
+    </div>
+</div>
+} 
+
+
+<a href="/order/payment">Ödeme</a>

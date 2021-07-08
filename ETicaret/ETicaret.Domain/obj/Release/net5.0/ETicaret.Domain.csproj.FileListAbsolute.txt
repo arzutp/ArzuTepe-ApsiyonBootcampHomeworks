@@ -1,0 +1,12 @@
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Domain\bin\Release\net5.0\ETicaret.Domain.deps.json
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Domain\bin\Release\net5.0\ETicaret.Domain.dll
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Domain\bin\Release\net5.0\ref\ETicaret.Domain.dll
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Domain\bin\Release\net5.0\ETicaret.Domain.pdb
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Domain\obj\Release\net5.0\ETicaret.Domain.csprojAssemblyReference.cache
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Domain\obj\Release\net5.0\ETicaret.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Domain\obj\Release\net5.0\ETicaret.Domain.AssemblyInfoInputs.cache
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Domain\obj\Release\net5.0\ETicaret.Domain.AssemblyInfo.cs
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Domain\obj\Release\net5.0\ETicaret.Domain.csproj.CoreCompileInputs.cache
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Domain\obj\Release\net5.0\ETicaret.Domain.dll
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Domain\obj\Release\net5.0\ref\ETicaret.Domain.dll
+C:\Kodluyoruz\20haziran\ETicaret\ETicaret.Domain\obj\Release\net5.0\ETicaret.Domain.pdb
