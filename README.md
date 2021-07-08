@@ -13,4 +13,5 @@ işlemleri gerçekleştirildi.
 <br>
 Code First kullanımını ve katmanlı mimariyi öğrendim.
 <h2>Ödev 3</h2>
-Identity User eklendi.
+Blog ödevine Identity User eklendi.
+
